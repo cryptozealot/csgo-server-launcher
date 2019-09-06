@@ -37,7 +37,7 @@ fi
 
 ### Vars
 version=1.13.4
-downloadUrl="https://github.com/crazy-max/csgo-server-launcher/releases/download/v$version"
+downloadUrl="https://github.com/cryptozealot/csgo-server-launcher/releases/download/v$version"
 scriptName="csgo-server-launcher"
 scriptPath="/etc/init.d/$scriptName"
 confPath="/etc/csgo-server-launcher/csgo-server-launcher.conf"
