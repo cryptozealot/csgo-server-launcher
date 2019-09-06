@@ -14,7 +14,7 @@ For usage and info, check the README in the [docker](https://github.com/crazy-ma
 A script is available to perform an installation with a single command:
 
 ```
-$ sudo curl -sSLk https://github.com/crazy-max/csgo-server-launcher/releases/download/v1.13.4/install.sh | sudo bash
+$ sudo curl -sSLk https://github.com/cryptozealot/csgo-server-launcher/releases/download/v1.2/install.sh | sudo bash
 ```
 
 This should output something like this:
